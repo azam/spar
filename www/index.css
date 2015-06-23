@@ -1,0 +1,17 @@
+#page-spinner {
+	display: none;
+}
+#page-spinner.active {
+	display: table;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background: #aaa;
+	opacity: 0.5;
+	z-index: 100;
+	text-align: center;
+}
+#page-spinner > div {
+	display: table-cell;
+	vertical-align: middle;
+}

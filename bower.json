@@ -1,0 +1,48 @@
+{
+  "name": "spar",
+  "description": "Single Page Application Comparison",
+  "version": "0.0.1",
+  "authors": [{
+    "name": "Azamshul Azizy",
+    "email": "azamshul@gmail.com",
+    "url": "http://azam.io/"
+  }],
+  "main": "www/index.js",
+  "moduleType": [],
+  "keywords": ["spa"],
+  "license": "MIT",
+  "homepage": "http://azam.io",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "2.1.18",
+    "requirejs-text": "2.0.14",
+    "jquery": "1.9.1",
+    "knockout": "v3.3.0",
+    "knockout-mapping": "2.4.1",
+    "durandal": "2.1.0",
+    "bootstrap": "3.3.4",
+    "font-awesome": "4.3.0",
+    "font-mfizz": "v1.2",
+    "bootstrap-material-design": "0.3.0",
+    "dropdown.js": "0.0.2dev",
+    "nouislider": "7.0.10",
+    "toastr": "2.1.1",
+    "typeahead.js": "0.10.5",
+    "knockout-bootstrap": "0.3.2",
+    "i18next": "1.9.0",
+    "hello": "1.6.0"
+  },
+  "resolutions": {
+    "requirejs": "2.1.18",
+    "jquery": "1.9.1",
+    "requirejs-text": "2.0.14"
+  }
+}

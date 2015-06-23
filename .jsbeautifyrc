@@ -1,0 +1,13 @@
+{
+	"html": {
+		"indent_char": "\t",
+		"indent_size": 1,
+		"indent_scripts": "normal",
+		"preserve_newlines": false,
+		"max_preserve_newlines": 1
+	},
+	"js": {
+		"indent_char": "\t",
+		"indent_size": 1
+	}
+}
