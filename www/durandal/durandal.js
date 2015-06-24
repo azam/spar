@@ -1,12 +1,12 @@
 requirejs.config({
 	paths: {
 		"text": ["../libs/requirejs-text/text"],
+		"jquery": ["../libs/jquery/jquery.min"],
+		"knockout": ["../libs/knockout/dist/knockout"],
+		"knockout-mapping": ["../libs/knockout-mapping/knockout.mapping"],
 		"durandal": ["../libs/durandal/js"],
 		"plugins": ["../libs/durandal/js/plugins"],
 		"transitions": ["../libs/durandal/js/transitions"],
-		"knockout": ["../libs/knockout/dist/knockout"],
-		"knockout-mapping": ["../libs/knockout-mapping/knockout.mapping"],
-		"jquery": ["../libs/jquery/jquery.min"],
 		"bootstrap": ["../libs/bootstrap/dist/js/bootstrap.min"],
 		"material": ["../libs/bootstrap-material-design/dist/js/material.min"],
 		"ripples": ["../libs/bootstrap-material-design/dist/js/ripples.min"],

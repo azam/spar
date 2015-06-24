@@ -27,7 +27,6 @@
     "jquery": "1.9.1",
     "knockout": "v3.3.0",
     "knockout-mapping": "2.4.1",
-    "durandal": "2.1.0",
     "bootstrap": "3.3.4",
     "font-awesome": "4.3.0",
     "font-mfizz": "v1.2",
@@ -38,7 +37,9 @@
     "typeahead.js": "0.10.5",
     "knockout-bootstrap": "0.3.2",
     "i18next": "1.9.0",
-    "hello": "1.6.0"
+    "hello": "1.6.0",
+    "durandal": "2.1.0",
+    "pagerjs": "1.0.1"
   },
   "resolutions": {
     "requirejs": "2.1.18",

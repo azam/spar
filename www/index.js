@@ -52,10 +52,10 @@ define(["jquery", "knockout"], function($, ko) {
 			version: "2.1.0",
 			homepage: "http://durandaljs.com"
 		}, {
-			name: "Angular",
-			path: "angular/angular.html",
-			version: "1.?",
-			homepage: "http://angularjs.org"
+			name: "PagerJS",
+			path: "pagerjs/pagerjs.html",
+			version: "1.0.1",
+			homepage: "http://pagerjs.com"
 		}]);
 	};
 	var instance = new SparViewModel();
